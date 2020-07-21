@@ -1,0 +1,4 @@
+baseURL = "https://blog.poudle.com"
+languageCode = "en-us"
+title = "Poudle Blogs"
+theme = "ananke"
